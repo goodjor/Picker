@@ -1,0 +1,15 @@
+picker\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+picker\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+picker\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+picker\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+picker\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+picker\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+picker\queue.o: ../Core/Inc/FreeRTOSConfig.h
+picker\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+picker\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+picker\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+picker\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+picker\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+picker\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+picker\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+picker\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
